@@ -23,7 +23,6 @@ Code for all the activities can be found in the wokwi simulator and is also prov
 
 ### Activity 2: Traffic Light Simulator
 
-- [Images](https://github.com/krishsharma0413/muj-iot-lab/tree/main/files/a2img.pdf)
 - Online traffic simulator
   - https://wokwi.com/projects/383098748437180417
 - Online traffic simulator additional task
@@ -32,7 +31,6 @@ Code for all the activities can be found in the wokwi simulator and is also prov
 
 ### Activity 3: Ultrasonic sensors
 
-- [Images](https://github.com/krishsharma0413/muj-iot-lab/tree/main/files/a3img.pdf)
 - Online ultrasonic sensor with LED simulator
   - https://wokwi.com/projects/375544051382927361
 - Online ultrasonic sensor with LCD display simulator
@@ -41,7 +39,6 @@ Code for all the activities can be found in the wokwi simulator and is also prov
 
 ### Activity 4: Speed control of motor
 
-- [Images](https://github.com/krishsharma0413/muj-iot-lab/tree/main/files/a4img.pdf)
 - Servo momement
   - https://wokwi.com/projects/376811452089914369
 - Servo with potentiometer
@@ -78,3 +75,5 @@ Code for all the activities can be found in the wokwi simulator and is also prov
 
 - [Images](https://github.com/krishsharma0413/muj-iot-lab/tree/main/files/a9na10img.pdf) - for activity 9 and 10 combined.
 - Theory class, code.
+
+⭐ the repo if you found it useful!
