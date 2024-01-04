@@ -78,7 +78,3 @@ Code for all the activities can be found in the wokwi simulator and is also prov
 
 - [Images](https://github.com/krishsharma0413/muj-iot-lab/tree/main/files/a9na10img.pdf) - for activity 9 and 10 combined.
 - Theory class, code.
-
-<hr>
-
-- [Images](https://github.com/krishsharma0413/muj-iot-lab/tree/main/files/a1ta8img.docx) - activity 1-8 combined.
