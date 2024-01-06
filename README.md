@@ -1,6 +1,6 @@
 # IOT LAB, Manipal University Jaipur
 
-NOTE: The content provided is based on the first semester in 2023. The content is subjected to change.
+NOTE: The content provided is based on the first semester in Manipal University Jaipur, 2023. The content is subjected to change.
 
 ## Getting Started
 - [ZIP] [Lab manual](https://github.com/krishsharma0413/muj-iot-lab/tree/main/files/allactivities.zip)
